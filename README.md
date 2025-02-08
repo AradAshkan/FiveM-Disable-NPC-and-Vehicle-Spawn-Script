@@ -1,0 +1,1 @@
+# FiveM-Disable-NPC-and-Vehicle-Spawn-Script
